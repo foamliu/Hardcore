@@ -22,6 +22,11 @@ def home():
     return render_template('home.html')
 
 
+@app.route('/math')
+def home():
+    return render_template('math.html')
+
+
 @app.route('/alg_top')
 def alg_top():
     return render_template('course.html')
