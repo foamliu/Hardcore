@@ -23,7 +23,7 @@ def home():
 
 
 @app.route('/math')
-def home():
+def math():
     return render_template('math.html')
 
 
