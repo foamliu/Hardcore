@@ -31,9 +31,10 @@ def math():
     return render_template('math.html')
 
 
-@app.route('/alg_top')
-def alg_top():
-    course = [c for c in courses if c['key'] == 'AlgTop'][0]
+@app.route('/catalog')
+def catalog():
+    key = request.args.get('key')
+    course = [c for c in courses if c['key'] == key][0]
     # print(course)
     return render_template('catalog.html', course=course)
 
@@ -43,3 +44,4 @@ def course():
     youku_id = request.args.get('youku_id')
     # print(course)
     return render_template('course.html', youku_id=youku_id)
+

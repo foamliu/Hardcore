@@ -204,5 +204,76 @@
         "youku_id":"XNDIxNTQwMzcxNg=="
       }
     ]
+  },
+  {
+    "title": "A First Course in Linear Algebra",
+    "key": "LinAlg",
+    "lectures": [
+      {
+        "index": 1,
+        "title": "Introduction to Linear Algebra",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 2,
+        "title": "Geometry with vectors",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 3,
+        "title": "Center of mass and barycentric coordinates",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 4,
+        "title": "Area and volume",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 5,
+        "title": "Change of coordinates and determinants",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 6,
+        "title": "Applications of 2x2 matrices",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 7,
+        "title": "More applications of 2x2 matrices",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 8,
+        "title": "Inverting 3x3 matrices",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 9,
+        "title": "Three dimensional affine geometry",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 10,
+        "title": "Equations of lines and planes in 3D",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 11,
+        "title": "Applications of 3x3 matrices",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 12,
+        "title": "Generalized dilations and eigenvectors",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 13,
+        "title": "Solving a system of linear equations",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      }
+    ]
   }
 ]

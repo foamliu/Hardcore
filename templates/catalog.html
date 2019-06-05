@@ -5,7 +5,7 @@
 
 <div class="list-group">
     {% for lec in course['lectures'] %}
-    <a href="{{ url_for('course', youku_id=lec['youku_id']) }}" class="list-group-item list-group-item-action">{{ lec['title'] }}</a>
+    <a href="{{ url_for('course', youku_id=lec['youku_id']) }}" class="list-group-item list-group-item-action">{{ course['key'] + lec['index']|string + ' ' + lec['title'] }}</a>
     {% endfor %}
 </div>
 
