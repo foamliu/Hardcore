@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block page_content %}
+<h1 class="mt-5">{{ course['title'] }}</h1>
+
+<div class="list-group">
+    {% for lec in course['lectures'] %}
+    <a href="{{ url_for('course', youku_id=lec['youku_id']) }}" class="list-group-item list-group-item-action">{{ lec['title'] }}</a>
+    {% endfor %}
+</div>
+
+{% endblock %}
