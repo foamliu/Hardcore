@@ -206,8 +206,8 @@
     ]
   },
   {
-    "title": "A First Course in Linear Algebra",
-    "key": "LinAlg",
+    "title": "Linear Algebra",
+    "key": "WildLinAlg",
     "lectures": [
       {
         "index": 1,
@@ -272,6 +272,56 @@
       {
         "index": 13,
         "title": "Solving a system of linear equations",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 14,
+        "title": "More row reduction with parameters",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 15,
+        "title": "Applications of row reduction (Gaussian elimination)",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 16,
+        "title": "Applications of row reduction II",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 17,
+        "title": "Rank and Nullity of a Linear Transformation",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 18,
+        "title": "The geometry of a system of linear equations",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 19,
+        "title": "Linear algebra with polynomials",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 20,
+        "title": "Bases of polynomial spaces",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 21,
+        "title": "More bases of polynomial spaces",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 22,
+        "title": "Polynomials and sequence spaces",
+        "youku_id": "XNDIxNTM5ODQwMA=="
+      },
+      {
+        "index": 23,
+        "title": "Stirling numbers and Pascal triangles",
         "youku_id": "XNDIxNTM5ODQwMA=="
       }
     ]
